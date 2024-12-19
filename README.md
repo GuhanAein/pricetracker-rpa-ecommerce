@@ -18,3 +18,5 @@ This web app allows users to track product prices from e-commerce sites by enter
 
 
 Any suggestions or improvements to the project are welcome! 
+
+![image](https://github.com/user-attachments/assets/3be6ffae-139b-45fa-80fc-3696fac45709)
